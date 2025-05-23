@@ -1,255 +1,274 @@
 <p align="center">
-  <img src="URL_TO_YOUR_Dexpert_LOGO_OR_A_COOL_AI_BANNER_IMAGE" alt="Dexpert Logo" width="200"/>
+  <!-- COMMENT: Use a more dynamic or professional-looking banner if possible.
+       A simple logo is okay, but a banner can convey more.
+       Consider a dark background image with light text/logo for a modern AI feel. -->
+  <img src="URL_TO_YOUR_DEXPERT_WIDE_BANNER_OR_ANIMATED_LOGO.gif" alt="Dexpert - Autonomous AGI" width="700"/>
 </p>
 
-<h1 align="center">Dexpert: The Unstoppable Autonomous AGI</h1>
+<h1 align="center">Dexpert: Your Unstoppable Autonomous Agent</h1>
 
 <p align="center">
-  <strong>Your Personal Computer Agent for Complex Task Automation, Advanced Web Interaction, and In-Depth Research.</strong>
-</p>
-
-<p align="center">
-  <a href="#-key-features">✨ Key Features</a> •
-  <a href="#-demos">🚀 Demos</a> •
-  <a href="#-why-Dexpert">💡 Why Dexpert?</a> •
-  <a href="#-getting-started">🛠️ Getting Started</a> •
-  <a href="#-example-usage">🎮 Example Usage</a> •
-  <a href="#-core-technologies">⚙️ Core Technologies</a> •
-  <a href="#-roadmap">🗺️ Roadmap</a> •
-  <a href="#-contributing">🤝 Contributing</a> •
-  <a href="#-license">📄 License</a>
+  <strong>The AI-powered copilot that understands your goals, masters complex PC & web tasks, and delivers results with unparalleled intelligence.</strong>
 </p>
 
 <p align="center">
-  <!-- Badges: Replace with your actual links/services -->
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_Dexpert_REPO?style=social" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_Dexpert_REPO?style=social" alt="GitHub Forks"/>
-  <img src="https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_Dexpert_REPO" alt="GitHub Issues"/>
-  <!-- <img src="https://img.shields.io/discord/YOUR_DISCORD_SERVER_ID?label=Discord&logo=discord" alt="Discord Server"/> -->
-  <!-- <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social" alt="Twitter Follow"/> -->
+  <!-- COMMENT: More visual badges, grouped logically.
+       Consider adding a "build passing" badge if you set up CI/CD.
+       A "license" badge is also standard.
+       A "contributions welcome" badge can be encouraging.
+       A "Chat on Discord" or "Follow on X" badge is more direct than text links. -->
+  <a href="https://github.com/YOUR_USERNAME/YOUR_DEXPERT_REPO/stargazers"><img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_DEXPERT_REPO?style=for-the-badge&logo=github&color=FFD700" alt="GitHub Stars"/></a>
+  <a href="https://github.com/YOUR_USERNAME/YOUR_DEXPERT_REPO/network/members"><img src="https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_DEXPERT_REPO?style=for-the-badge&logo=github&color=C0C0C0" alt="GitHub Forks"/></a>
+  <a href="https://github.com/YOUR_USERNAME/YOUR_DEXPERT_REPO/issues"><img src="https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_DEXPERT_REPO?style=for-the-badge&logo=github&color=lightgrey" alt="GitHub Issues"/></a>
+  <a href="URL_TO_YOUR_DISCORD_SERVER_INVITE_LINK"><img src="https://img.shields.io/discord/YOUR_DISCORD_SERVER_ID?label=Chat&logo=discord&style=for-the-badge&color=5865F2" alt="Discord Server"/></a>
+  <a href="https://x.com/YOUR_TWITTER_HANDLE"><img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=for-the-badge&logo=x&label=Follow" alt="Follow on X"/></a>
+  <br/>
+  <a href="LINK_TO_YOUR_PROJECT_LICENSE_FILE"><img src="https://img.shields.io/github/license/YOUR_USERNAME/YOUR_DEXPERT_REPO?style=flat-square&color=blue" alt="License"/></a>
+  <a href="LINK_TO_YOUR_CONTRIBUTING.MD_FILE"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
+  <!-- <a href="#"><img src="https://img.shields.io/github/workflow/status/YOUR_USERNAME/YOUR_DEXPERT_REPO/CI%20Pipeline?label=Build&logo=github&style=flat-square" alt="Build Status"/></a> -->
+</p>
+
+<!--
+COMMENT: Short, powerful intro. Less "script" more "agent/copilot".
+Focus on the benefit to the user.
+-->
+**Dexpert isn't just automation; it's *intelligent autonomy*. It's your personal AI agent that tackles complex digital tasks—from deep web research to intricate PC operations—with a level of understanding and resilience that leaves traditional tools behind.**
+
+---
+
+<!--
+COMMENT: This is your PRIME real estate. The first GIF needs to be mind-blowing.
+Show a sequence that combines multiple strengths if possible, or the most visually impressive one.
+Example: Navigating a complex site, extracting data, *then* running a local script on it.
+Make sure the GIF is well-compressed but clear.
+-->
+<p align="center">
+  <a href="URL_TO_YOUR_MAIN_DEMO_VIDEO_ON_YOUTUBE_OR_VIMEO">
+    <img src="URL_TO_YOUR_BEST_DEMO_GIF_SHOWCASING_KEY_STRENGTH.gif" alt="Dexpert In Action - Main Demo" width="80%"/>
+  </a>
+  <br/>
+  <em>See Dexpert seamlessly <describe what the main demo GIF shows in a few words>. <a href="URL_TO_YOUR_MAIN_DEMO_VIDEO_ON_YOUTUBE_OR_VIMEO">Watch the full demo!</a></em>
 </p>
 
 ---
 
-**Dexpert is not just another automation script. It's an intelligent autonomous agent designed to understand complex goals, interact robustly with your PC and the web, and achieve tasks with human-like (and sometimes superhuman!) resilience and ingenuity.**
+<!--
+COMMENT: Reordered for impact. Quick links first, then detailed features.
+The "Why Dexpert?" is strong, move it up slightly after demos.
+-->
+## 🚀 Quick Links
 
-Tired of brittle web scrapers and limited automation tools? Dexpert leverages cutting-edge Large Language Models (LLMs) combined with a unique understanding of web page structure to navigate, extract, and act with unprecedented reliability.
-
-**(Embed your most stunning 15-30 second GIF demo here - e.g., Dexpert solving a CAPTCHA, extracting complex data, or running an RPA loop)**
-`![Dexpert Awesome Demo GIF](URL_TO_YOUR_BEST_DEMO_GIF.gif)`
-
----
-
-## ✨ Key Features
-
-*   🧠 **Advanced LLM-Powered Reasoning:** Utilizes LLMs (configurable: Gemini, OpenAI, Mistral) for complex planning, self-correction, and dynamic adaptation.
-*   🌐 **Revolutionary Web Interaction via AX-Tree:**
-    *   Injects unique `Dexpert-id`s into web elements for hyper-robust targeting.
-    *   `analyze_page_structure` tool provides a deep semantic understanding of web pages (forms, lists, CTAs) *before* acting, leading to smarter decisions.
-*   📊 **Sophisticated Data Extraction (`extract_data`):**
-    *   Schema-based extraction from simple or complex web structures.
-    *   Handles dynamic content loading via intelligent scrolling.
-    *   Utilizes pre-defined or custom extraction schemas.
-*   🔄 **Powerful RPA with `process_list`:**
-    *   Automate multi-step workflows on lists of items (URLs, extracted data, etc.).
-    *   Dynamic placeholder resolution for flexible task execution.
-*   🔬 **Next-Generation Researcher Module:**
-    *   Autonomous research planning (quick triage vs. deep dive).
-    *   Multi-source data aggregation (web search, news APIs, academic databases like arXiv & Semantic Scholar, Brave Search, SearXNG).
-    *   In-depth content processing (parsing, metadata, chunking, embedding).
-    *   Knowledge storage & retrieval (Vector DB with FAISS).
-    *   Advanced analysis (comparative, trend, evidence extraction).
-    *   Comprehensive report synthesis.
-*   👁️ **Vision Capabilities & CAPTCHA Handling:**
-    *   `analyze_visual_content` tool leverages vision models to understand screenshots, perform OCR, and describe visual elements.
-    *   Built-in multi-turn strategy for attempting to solve CAPTCHAs.
-    *   Visual fallback mechanism for DOM interaction failures.
-*   💻 **Local PC Control (`execute_script`):**
-    *   Execute Python, PowerShell, Bash, and CMD scripts locally.
-    *   Securely inject data from the agent's context into scripts.
-    *   Automate file operations, system tasks, and data processing.
-*   💾 **Persistent Memory & Personalization:**
-    *   Short-term memory for conversation context.
-    *   Long-term memory via summarization and keyword storage.
-    *   Learns and adapts to user preferences.
-*   🛠️ **Highly Configurable & Extensible:**
-    *   YAML-based settings and prompts.
-    *   Pydantic models for type safety and validation.
-    *   Modular tool registry for easy addition of new capabilities.
-*   📄 **Detailed Logging & State Management:** For debugging and understanding agent behavior.
-
----
-
-## 🚀 Demos
-
-See Dexpert in action!
-
-*   **Demo 1: Complex Data Extraction from Dynamic E-commerce Site**
-    *   *(Embed GIF or Link to Video)* `[![Complex Extraction Demo](URL_TO_DEMO_1_THUMBNAIL.png)](URL_TO_DEMO_1_VIDEO)`
-    *   *Description:* Watch Dexpert navigate a product listing, intelligently scroll to load all items, and extract detailed product information (name, price, rating, image URL) into a structured format using the `extract_data` tool. Highlights `analyze_page_structure` guiding the extraction.
-
-*   **Demo 2: Multi-Step RPA with `process_list`**
-    *   *(Embed GIF or Link to Video)* `[![RPA process_list Demo](URL_TO_DEMO_2_THUMBNAIL.png)](URL_TO_DEMO_2_VIDEO)`
-    *   *Description:* Dexpert processes a list of company URLs from its scratchpad. For each URL, it navigates to the contact page, extracts email addresses using `extract_data` (single_item mode), and saves them to a CSV file using `execute_script`.
-
-*   **Demo 3: Solving a CAPTCHA with Vision**
-    *   *(Embed GIF or Link to Video)* `[![CAPTCHA Solving Demo](URL_TO_DEMO_3_THUMBNAIL.png)](URL_TO_DEMO_3_VIDEO)`
-    *   *Description:* See Dexpert encounter a CAPTCHA, use its `analyze_visual_content` tool to perform OCR on the image, input the text, and successfully submit the form.
-
-*   **Demo 4: In-Depth Research Task**
-    *   *(Embed GIF or Link to Video)* `[![Research Demo](URL_TO_DEMO_4_THUMBNAIL.png)](URL_TO_DEMO_4_VIDEO)`
-    *   *Description:* User asks: "What are the latest advancements in quantum battery technology and their potential impact on consumer electronics?" Dexpert's researcher module plans, sources information from web and academic databases, analyzes it, and synthesizes a comprehensive report.
-
-**(Add more demos as you create them!)**
+*   [🌟 **See Dexpert in Action (Demos)**](#-demos)
+*   [🛠️ **Get Started in 5 Minutes**](#-getting-started)
+*   [💡 **Why Dexpert is Different**](#-why-dexpert)
+*   [🤝 **Join the Community & Contribute**](#-contributing)
 
 ---
 
 ## 💡 Why Dexpert?
 
-Traditional web automation tools are often brittle, breaking with minor UI changes. LLM-only agents can hallucinate or struggle with precise, complex interactions. Dexpert aims to bridge this gap by:
+Traditional web automation breaks. LLM-only agents hallucinate. **Dexpert bridges the gap.**
 
-1.  **Understanding, Not Just Seeing:** Instead of relying on fragile selectors, Dexpert first *understands* the structure of a webpage using its Accessibility Tree analysis (`analyze_page_structure`). This leads to more intelligent and adaptable interactions.
-2.  **Unmatched Robustness:** The `Dexpert-id` injection technique provides stable element handles, dramatically reducing failures due to dynamic class names or minor layout shifts.
-3.  **True Task Automation:** Tools like `process_list` go beyond simple scripting, enabling complex, stateful RPA workflows managed by the LLM.
-4.  **Integrated Deep Research:** The Next-Gen Researcher isn't an afterthought; it's a core capability, allowing the agent to gather, process, and reason about information from diverse sources.
-5.  **Resilience through Fallbacks:** With vision capabilities and detailed error-handling logic guided by sophisticated prompts, Dexpert can often self-correct and find alternative ways to achieve its goals.
+1.  👁️ **Understands, Not Just Sees:** Dexpert analyzes web page structure (AX-Tree & `analyze_page_structure`) *before* acting, leading to vastly more intelligent and adaptable interactions.
+2.  🔗 **Unmatched Robustness:** Unique `Dexpert-id` injection provides stable element targeting, shrugging off dynamic UI changes that cripple other tools.
+3.  ⚙️ **True Task Orchestration:** `process_list` enables complex, stateful RPA workflows, not just simple scripts.
+4.  🔬 **Integrated Deep Research:** A full-fledged research module to gather, process, and synthesize information like a dedicated analyst.
+5.  🛡️ **Resilient & Self-Correcting:** Sophisticated vision fallbacks, CAPTCHA-solving strategies, and detailed error-handling logic make Dexpert remarkably persistent.
 
-**Dexpert is designed for users who need to automate complex, multi-step tasks that require a high degree of understanding, interaction, and information synthesis.**
+**Dexpert is for anyone who needs to conquer complex digital tasks that demand deep understanding, robust interaction, and intelligent information synthesis.**
+
+---
+
+## ✨ Key Features
+
+<!-- COMMENT: Use emojis for visual appeal. Keep descriptions concise.
+Maybe group them or use a table for even better visual structure if many.
+For now, bullet points are fine. -->
+
+| Feature Category        | Highlights                                                                                                                                                                                                                                                           |
+| :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🤖 **Core Intelligence** | Advanced LLM Reasoning (Gemini, OpenAI, Mistral) • Self-Correction & Dynamic Adaptation • Persistent Memory (STM/LTM) & Personalization                                                                                                                               |
+| 🌐 **Web Mastery**       | Revolutionary AX-Tree Interaction (`Dexpert-id`s) • `analyze_page_structure` for Semantic Understanding • Sophisticated `extract_data` (Schema-based, Scrolling) • Robust RPA with `process_list` • Visual CAPTCHA Solving & Fallbacks                             |
+| 🔬 **Research Power**    | Autonomous Research Planning • Multi-Source Data Sourcing (Web, News, Academic, Brave, SearXNG) • Deep Content Processing & Analysis • Vector DB (FAISS) & Knowledge Graph Capabilities • Comprehensive Report Synthesis                                              |
+| 💻 **PC Control**        | `execute_script` (Python, PowerShell, Bash, CMD) • Secure Data Injection into Scripts • File Operations & System Task Automation                                                                                                                                  |
+| 🔧 **Extensibility**     | Highly Configurable (YAML) • Pydantic-Validated Settings & Prompts • Modular Tool Registry • Detailed Logging                                                                                                                                                            |
+
+<!--
+Alternative single list format:
+*   🧠 **Advanced LLM Reasoning:** Powers planning, self-correction & adaptation. (Gemini, OpenAI, Mistral)
+*   🌐 **Revolutionary Web Interaction (AX-Tree):** Injects `Dexpert-id`s for hyper-robust targeting.
+*   📄 **Deep Page Understanding (`analyze_page_structure`):** Semantically analyzes pages *before* action.
+*   📊 **Sophisticated Data Extraction (`extract_data`):** Schema-based, handles dynamic content & scrolling.
+*   🔄 **Powerful RPA (`process_list`):** Automates multi-step workflows on item lists.
+*   🔬 **Next-Gen Researcher:** Plans, sources (web, news, academic), analyzes, synthesizes complex reports.
+*   👁️ **Vision & CAPTCHA Handling:** Uses vision models for OCR, visual fallbacks, and CAPTCHA solving.
+*   💻 **Local PC Control (`execute_script`):** Runs Python, PowerShell, Bash, CMD scripts with data injection.
+*   💾 **Persistent Memory & Personalization:** Retains context and learns user preferences.
+*   🛠️ **Highly Configurable & Extensible:** YAML settings, Pydantic models, modular tools.
+-->
+
+---
+
+## 🚀 Demos
+
+<!-- COMMENT: Use thumbnail images that link to videos. This is much more engaging.
+Make sure thumbnails are appealing and hint at the demo's content.
+Keep descriptions very short and benefit-oriented.
+-->
+
+Click a thumbnail to watch the demo video!
+
+| Demo Showcase                                    | Description                                                                | Watch                                                                                                                     |
+| :----------------------------------------------- | :------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------ |
+| **Dynamic Data Extraction & Scrolling**          | Dexpert conquers a complex e-commerce site, extracting data like a pro.    | [![Complex Extraction Demo](URL_TO_DEMO_1_THUMBNAIL_150x80.png)](URL_TO_DEMO_1_VIDEO_LINK)                                 |
+| **Multi-Step RPA Automation (`process_list`)**   | Watch Dexpert automate a lead generation workflow across multiple websites.  | [![RPA process_list Demo](URL_TO_DEMO_2_THUMBNAIL_150x80.png)](URL_TO_DEMO_2_VIDEO_LINK)                                 |
+| **AI Vision: Solving CAPTCHAs**                   | Dexpert uses its vision to intelligently bypass a common CAPTCHA.          | [![CAPTCHA Solving Demo](URL_TO_DEMO_3_THUMBNAIL_150x80.png)](URL_TO_DEMO_3_VIDEO_LINK)                                   |
+| **In-Depth Automated Research**                   | From a simple question to a comprehensive report, powered by AI research. | [![Research Demo](URL_TO_DEMO_4_THUMBNAIL_150x80.png)](URL_TO_DEMO_4_VIDEO_LINK)                                          |
+| **PC Control + Web Data Synthesis**               | Dexpert fetches web data, processes it locally, and generates a file.     | [![PC+Web Demo](URL_TO_DEMO_5_THUMBNAIL_150x80.png)](URL_TO_DEMO_5_VIDEO_LINK_IF_YOU_HAVE_IT)                           |
+
+➡️ **[View All Demos in our Gallery (Link to a YouTube Playlist or a page on your website/GitHub Wiki)]**
 
 ---
 
 ## 🛠️ Getting Started
 
-**Prerequisites:**
+<!-- COMMENT: Streamlined this section. Emphasize ease. -->
+Get Dexpert up and running in minutes:
 
-*   Python 3.9+
-*   An API Key for your chosen LLM provider (e.g., Google Gemini API Key).
-*   Playwright browsers installed: `python -m playwright install --with-deps`
-
-**Installation:**
-
-1.  **Clone the repository:**
+1.  **Clone & Setup Environment:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_Dexpert_REPO.git
-    cd YOUR_Dexpert_REPO
+    git clone https://github.com/YOUR_USERNAME/YOUR_DEXPERT_REPO.git
+    cd YOUR_DEXPERT_REPO
+    python -m venv .venv && source .venv/bin/activate # Or .venv\Scripts\activate
     ```
-2.  **Create a virtual environment (recommended):**
-    ```bash
-    python -m venv .venv
-    source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-    ```
-3.  **Install dependencies:**
+2.  **Install Dependencies & Browsers:**
     ```bash
     pip install -r requirements.txt
+    python -m playwright install --with-deps
     ```
-4.  **Configure API Keys:**
-    *   Create a `.env` file in the project root (copy from `.env.example` if provided).
-    *   Add your API keys:
-        ```env
-        GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY"
-        # NEWS_API_KEY="YOUR_NEWS_API_KEY" # Optional, for researcher
-        # BRAVE_API_KEY="YOUR_BRAVE_API_KEY" # Optional, for researcher
-        # SEARXNG_INSTANCE_URL="YOUR_SEARXNG_URL" # Optional, for researcher
-        # ... other keys as needed
-        ```
-5.  **Review Configuration:**
-    *   Check `config/settings.yaml` for default LLM models, browser paths (if not using Playwright's default), and other agent settings. Adjust if necessary. For example, you might need to set `browser_settings.browser_binary_path` if Playwright can't find your Chrome/Chromium.
+3.  **Configure API Keys:**
+    *   Copy `.env.example` to `.env` (if it exists, otherwise create `.env`).
+    *   Edit `.env` and add your `GOOGLE_API_KEY="YOUR_KEY_HERE"`.
+    *   *(Optional)* Add `NEWS_API_KEY`, `BRAVE_API_KEY`, etc., for full researcher functionality.
+4.  **Review Settings (Optional):**
+    *   Check `config/settings.yaml` for LLM model choices and browser binary paths (if needed).
 
-**Running Dexpert:**
-
-*   **CLI Mode:**
-    ```bash
-    python main.py
-    ```
-    You will then be prompted to enter a task for Dexpert.
-
-*   **(Future) Streamlit UI:**
-    ```bash
-    streamlit run ui/streamlit_app.py
-    ```
-    *(Note: Streamlit app functionality depends on its implementation, which was excluded from the provided content.)*
+**Run Dexpert (CLI):**
+```bash
+python main.py
+```
+Dexpert will greet you! Enter your complex task.
 
 ---
 
 ## 🎮 Example Usage
 
-Once Dexpert is running in CLI mode, you can give it tasks like:
+<!-- COMMENT: Make example commands more evocative of the power. -->
+Unleash Dexpert with commands like:
 
-*   `"Go to Google Maps, search for 'pizza near me', and list the names and ratings of the first 5 results."`
-*   `"Open my project 'my_app' in VS Code, then navigate to example.com, find the 'Login' button, and click it."`
-*   `"Extract all job titles and company names from the first 3 pages of LinkedIn job search results for 'AI engineer remote'."` (This would leverage `extract_data` and potentially `process_list` for pagination if not handled by scrolling in `extract_data`).
-*   `"Research the current market trends for electric vehicles, focusing on battery technology and charging infrastructure. Provide a detailed report."`
-*   `"Go to the 2captcha demo page, attempt to solve the normal CAPTCHA, and tell me if you were successful."`
-*   `"Please write a Python script that lists all .txt files in my Documents folder and saves the list to a file named 'doc_files.log' on my Desktop. Then execute this script."`
+```text
+"Go to Google Maps, find 'best cafes near Eiffel Tower', extract the top 3 names, ratings, and their websites. Then, for each website, find the contact email if available, and compile all results into a CSV file on my Desktop called 'eiffel_tower_cafes.csv'."
 
-**(Add a screenshot of the CLI in action with a simple task)**
+"Research the impact of generative AI on the job market for software developers, focusing on trends in the last 12 months from news articles and academic papers. Summarize the key findings and list 5 actionable insights."
+
+"Log into my (dummy) GitHub account, navigate to my 'project-alpha' repository, create a new issue titled 'Implement feature X' with the description 'Details for feature X...', and assign it to me."
+```
+**(Optional: Screenshot of CLI interaction showing a successful complex task)**
+`![Dexpert CLI Example](URL_TO_CLI_SCREENSHOT.png)`
 
 ---
 
 ## ⚙️ Core Technologies
 
-Dexpert is built with a powerful stack:
-
-*   **Python:** The primary language.
-*   **Large Language Models (LLMs):** Google Gemini (primary), with support for OpenAI & Mistral via LangChain.
-*   **Playwright:** For robust browser automation.
-*   **Pydantic:** For data validation and settings management.
-*   **SQLite:** For persistent memory storage.
-*   **FAISS (via `sentence-transformers`):** For efficient vector similarity search in the researcher module.
-*   **`duckduckgo-search`, `newsapi-python`, `httpx`:** For web sourcing in the researcher module.
-*   **`BeautifulSoup4`, `trafilatura`:** For HTML content parsing.
-*   **`PyPDF2` (or `pypdf`):** For PDF parsing.
-*   **`diskcache`:** For persistent caching in the researcher module.
-*   **`NetworkX`:** For knowledge graph representation.
-*   **Rich:** For enhanced CLI output.
-*   **(Future) Streamlit:** For a graphical user interface.
+Dexpert integrates a powerful suite of technologies:
+<!-- COMMENT: Use icons or a more visually appealing list for technologies if possible,
+or just keep it clean like this. This list is already quite good. -->
+Python • LLMs (Gemini, OpenAI, Mistral) • Playwright • Pydantic • SQLite • FAISS • `sentence-transformers` • `duckduckgo-search` • `newsapi-python` • `httpx` • BeautifulSoup4 • Trafilatura • PyPDF2 • NetworkX • Rich • DiskCache • *(Future) Streamlit*
 
 ---
 
 ## 🗺️ Roadmap
 
-Dexpert is an actively developing project with an ambitious vision. Here are some areas we're focusing on:
+We're just getting started! Key future directions:
 
-*   [ ] **Enhanced GUI:** Developing a user-friendly Streamlit (or other web framework) interface.
-*   [ ] **More Robust Error Recovery:** Improving the LLM's ability to diagnose and recover from a wider range of failures.
-*   [ ] **Advanced Self-Correction & Learning:** Implementing mechanisms for the agent to learn from past interactions and improve its strategies.
-*   [ ] **Deeper Knowledge Graph Utilization:** Integrating KG insights more directly into the agent's reasoning and planning.
-*   [ ] **Expanded Toolset:** Adding more tools for different applications (e.g., email interaction, calendar management, more specialized PC control).
-*   [ ] **Multi-Agent Collaboration (Stretch Goal):** Enabling multiple Dexperts to work together on very large tasks.
-*   [ ] **Sandboxed Execution Environments:** For safer execution of potentially untrusted scripts or browser interactions.
-*   [ ] **Comprehensive Testing Suite:** Building out unit, integration, and end-to-end tests.
-*   [ ] **Simplified Onboarding & Deployment:** Making it easier for users to get started and deploy Dexpert.
+*   🚀 **Intuitive GUI:** A polished web/desktop interface.
+*   🧠 **Smarter Self-Correction:** Enhanced learning from errors.
+*   🕸️ **Deeper KG Integration:** KG-driven reasoning and planning.
+*   ➕ **Expanded Toolset:** More integrations (email, calendar, etc.).
+*   🛡️ **Sandboxed Execution:** For enhanced security.
+*   ✅ **Comprehensive Testing & QA:** Ensuring rock-solid reliability.
+
+➡️ **[View our Detailed Public Roadmap (Link to GitHub Project/Milestones/Wiki)]**
 
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions! Whether it's bug reports, feature requests, documentation improvements, or code contributions, please feel free to:
+Dexpert thrives on community! We welcome bug reports, feature ideas, documentation, and code contributions.
 
-1.  **Open an Issue:** Discuss bugs or new features.
-2.  **Fork the Repository:** Make your changes.
-3.  **Submit a Pull Request:** Ensure your PR is well-described and (if applicable) includes tests.
+1.  💬 **Open an Issue:** Discuss ideas or report problems.
+2.  🍴 **Fork & Code:** Make your improvements.
+3.  🚀 **Submit a Pull Request:** Let's build together!
 
-Please read our `CONTRIBUTING.md` (you'll need to create this file) for more detailed guidelines.
+👉 Please read our **[CONTRIBUTING.md](LINK_TO_YOUR_CONTRIBUTING.MD)** guide.
 
 ---
 
 ## 🌟 Show Your Support
 
-If you find Dexpert exciting or useful, please consider giving us a ⭐ star on GitHub! It helps motivate development and increases visibility.
+If Dexpert excites you, please **⭐ Star our GitHub repo!** It fuels development and helps others discover the project.
 
 ---
 
-## 🚀 Looking for Funding / Collaboration?
+## 🚀 We're Seeking Funding & Collaborators!
 
-The Dexpert team is actively seeking funding and collaboration opportunities to accelerate development and bring its advanced capabilities to a wider audience. If you're an investor, potential partner, or have a challenging automation problem you think Dexpert can solve, we'd love to hear from you!
+The Dexpert team is actively looking for **funding, strategic partnerships, and talented collaborators** to accelerate development and bring its transformative capabilities to a wider audience.
 
-*   **Contact:** `YOUR_EMAIL_ADDRESS` or `LINK_TO_YOUR_CONTACT_PAGE/LINKEDIN`
+If you're an **investor, potential partner, or an AI/automation enthusiast** who believes in the future of autonomous agents, we'd love to connect!
+
+*   **Let's Talk:** `YOUR_PROFESSIONAL_EMAIL_ADDRESS`
+*   **Connect on LinkedIn:** `LINK_TO_YOUR_LINKEDIN_PROFILE_OR_PROJECT_PAGE`
+*   **Join our Discord:** `LINK_TO_YOUR_DISCORD_SERVER`
 
 ---
 
 ## 📄 License
 
-Dexpert is released under the [YOUR_CHOSEN_LICENSE, e.g., MIT License or Apache 2.0]. See the `LICENSE` file for more details.
+Dexpert is released under the **[YOUR_CHOSEN_LICENSE, e.g., Apache 2.0 License]**.
+See the [LICENSE](LICENSE_FILE_NAME.md) file for details.
+```
 
----
+**Key Changes and Why:**
+
+1.  **Visual Hierarchy & Branding:**
+    *   **Wider Banner:** A full-width banner image is more impactful than a small logo. Consider something abstract AI-themed or a dynamic animation if possible.
+    *   **Improved Badges:** More visual, grouped, and standard badges (license, PRs welcome).
+    *   **Emojis:** Used judiciously to add visual cues and break up text.
+
+2.  **Compelling Introduction:**
+    *   Stronger opening statement focusing on "intelligent autonomy" and user benefits.
+    *   **Main Demo GIF Prominently Featured:** This is your most critical visual. It *must* be impressive and immediately show what Dexpert can do.
+
+3.  **Reordered Sections for Impact:**
+    *   **Quick Links:** Helps users navigate to what they're most interested in.
+    *   **"Why Dexpert?" Moved Up:** This section clearly states your unique selling propositions (USPs) and should be seen early.
+
+4.  **Key Features Table:**
+    *   A table can make features more scannable and organized. The single-list alternative is also good if you prefer.
+
+5.  **Demo Section Enhanced:**
+    *   **Thumbnails:** Using small image thumbnails that link to videos is much more engaging than text links. Keep thumbnails consistent in size (e.g., 150x80 or a similar aspect ratio).
+    *   **Concise Descriptions:** Focus on the *outcome* or *impressive aspect* of each demo.
+    *   **"View All Demos" Link:** Good for a growing collection.
+
+6.  **Streamlined Getting Started:**
+    *   More concise, focused on the essential steps.
+
+7.  **More Evocative Example Usage:**
+    *   The examples now hint at more complex, multi-step tasks that truly showcase an "agent's" power.
+
+8.  **Clearer Calls to Action:**
+    *   For contributing, support, and funding/collaboration.
+
+9.  **Professional Tone for Funding/Collaboration:**
+    *   Directly states the need and invites relevant parties.
